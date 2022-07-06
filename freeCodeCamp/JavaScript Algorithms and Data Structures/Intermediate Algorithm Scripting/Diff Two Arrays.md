@@ -7,9 +7,6 @@ Note: You can return the array with its elements in any order.
 ```Javascript
 function diffArray(arr1, arr2) {
   const newArr = [];
-  newArr = arr1.reduce((accumulator, currentValue) {
-    if()
-  })
   return newArr;
 }
 
